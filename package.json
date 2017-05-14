@@ -1,0 +1,23 @@
+{
+  "name": "chatbox",
+  "version": "0.0.1",
+  "description": "chatbox with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoodWaven/phaseBronze.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoodWaven/phaseBronze/issues"
+  },
+  "homepage": "https://github.com/HoodWaven/phaseBronze#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
